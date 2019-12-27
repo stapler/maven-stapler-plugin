@@ -33,9 +33,8 @@ import java.util.Collection;
 
 /**
  * Prints out the progress of localization.
- *
+ * @see <a href="http://d.hatena.ne.jp/ssogabe/20081213/1229175653">Explanation (in Japanese)</a>
  * @author ssogabe
- * @see http://d.hatena.ne.jp/ssogabe/20081213/1229175653
  * @goal l10n-progress
  */
 public class LocalizerProgressMojo extends AbstractMojo {
